@@ -6,13 +6,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
-Video Zoom Percent: 0.75
-Scroll Position: 721
-Active Line: 724
-Video File: ..\..\[Zero-Raws] IS Infinite Stratos 2 - 02 (TBS 1280x720 x264 AAC).mp4
+Video Zoom Percent: 0.625
+Scroll Position: 301
+Active Line: 310
+Video File: ..\..\..\Downloads\[Zero-Raws] IS Infinite Stratos 2 - 02 (TBS 1280x720 x264 AAC).mp4
 YCbCr Matrix: TV.709
 Video Aspect Ratio: c1.77778
-Video Position: 34907
+Video Position: 11648
 Last Style Storage: 720p
 ScaledBorderAndShadow: yes
 
@@ -221,6 +221,27 @@ Dialogue: 0,0:07:59.98,0:08:01.29,Default,,0,0,0,,Fine, we'll have a match.
 Dialogue: 0,0:08:01.29,0:08:03.04,Default,,0,0,0,,If I lose, I'll do whatever \Nyou tell me to do.
 Dialogue: 0,0:08:03.48,0:08:05.09,Default,,0,0,0,,Sure, sounds good.
 Dialogue: 0,0:08:06.63,0:08:06.67,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,138.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:06.71,0:08:06.75,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,130.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:06.75,0:08:06.79,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,126.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:06.79,0:08:06.84,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,122.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:06.84,0:08:06.88,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,118.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:06.88,0:08:06.92,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,113.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:06.92,0:08:06.96,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,110.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:06.96,0:08:07.00,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,106.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.00,0:08:07.04,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,103.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.04,0:08:07.09,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,100.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.09,0:08:07.13,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,97.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.13,0:08:07.17,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,94.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.17,0:08:07.21,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,90.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.21,0:08:07.25,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,87.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.25,0:08:07.29,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,84.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.29,0:08:07.34,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,82.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.34,0:08:07.38,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,78.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.38,0:08:07.42,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,74.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.42,0:08:07.46,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,72.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.46,0:08:07.50,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,68.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.54,0:08:08.21,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\move(224,65.732,224,34.8,0,656)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
+Dialogue: 0,0:08:07.50,0:08:07.54,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,65.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
 Dialogue: 0,0:08:06.54,0:08:06.59,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,149.065)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
 Dialogue: 0,0:08:06.46,0:08:06.50,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,160.066)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
 Dialogue: 0,0:08:06.67,0:08:06.71,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224.333,134.732)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
@@ -244,6 +265,30 @@ Dialogue: 0,0:08:05.83,0:08:05.88,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&
 Dialogue: 0,0:08:05.79,0:08:05.83,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,574.733)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
 Dialogue: 0,0:08:05.71,0:08:05.79,OS - sign 1,,0,0,0,,{\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(224,675.4)}S{\c&H596062&}im{\c&H505353&}pli{\c&H515151&}city
 Dialogue: 0,0:08:06.67,0:08:06.71,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,130.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:06.71,0:08:06.75,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,126.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:06.75,0:08:06.79,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,122.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.21,0:08:07.25,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041.2,84.2)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:06.79,0:08:06.84,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,118.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:06.84,0:08:06.88,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,114.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:06.88,0:08:06.92,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,110.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:06.92,0:08:06.96,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,106.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:06.96,0:08:07.00,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,102.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.00,0:08:07.04,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,98.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.04,0:08:07.09,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,94.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.09,0:08:07.13,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,90.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.13,0:08:07.17,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,87.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.17,0:08:07.21,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,84.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.25,0:08:07.29,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,81.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.29,0:08:07.34,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,78.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.34,0:08:07.38,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,75.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.38,0:08:07.42,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,72.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.42,0:08:07.46,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,69.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.46,0:08:07.50,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,66.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.50,0:08:07.54,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,63.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.54,0:08:07.59,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,60.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.59,0:08:07.63,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,57.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.63,0:08:07.67,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,54.4)}{\c&H373533&}Fortitude
+Dialogue: 0,0:08:07.67,0:08:08.21,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\move(1041,51.4,1041.2,31.6,0,526)}{\c&H373533&}Fortitude
 Dialogue: 0,0:08:06.63,0:08:06.67,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,134.4)}{\c&H373533&}Fortitude
 Dialogue: 0,0:08:06.59,0:08:06.63,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,140.4)}{\c&H373533&}Fortitude
 Dialogue: 0,0:08:06.54,0:08:06.59,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,144.4)}{\c&H373533&}Fortitude
@@ -267,6 +312,17 @@ Dialogue: 0,0:08:05.83,0:08:05.88,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\b
 Dialogue: 0,0:08:05.79,0:08:05.83,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041,575.4)}{\c&H373533&}Fortitude
 Dialogue: 0,0:08:05.71,0:08:05.79,OS,,0,0,0,,{\fnbrush-tipTerrence trial\bord0\blur1.2\c&H585E62&\frx20\fax-0.12\fs50\pos(1041.67,675.4)}{\c&H373533&}Fortitude
 Dialogue: 1,0:08:06.67,0:08:06.71,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,69.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:06.71,0:08:06.75,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,65.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:06.75,0:08:06.79,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,61.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:06.79,0:08:06.84,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,57.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:06.84,0:08:06.88,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,53.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:06.88,0:08:06.92,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,49.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:06.92,0:08:06.96,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,45.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:06.96,0:08:07.00,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,41.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:07.00,0:08:07.04,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,37.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:07.04,0:08:07.09,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,33.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:07.09,0:08:07.13,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,29.014)}Unaffected with Fortitude and Vigor
+Dialogue: 1,0:08:07.13,0:08:07.17,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,25.014)}Unaffected with Fortitude and Vigor
 Dialogue: 1,0:08:06.63,0:08:06.67,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,74.585)}Unaffected with Fortitude and Vigor
 Dialogue: 1,0:08:06.59,0:08:06.63,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,79.156)}Unaffected with Fortitude and Vigor
 Dialogue: 1,0:08:06.54,0:08:06.59,OS - sign 1,,0,0,0,,{\frx20\bord0\blur0.5\c&H5C5955&\fs35\pos(630,85.013)}Unaffected with Fortitude and Vigor
@@ -314,6 +370,17 @@ Dialogue: 0,0:08:06.50,0:08:06.54,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&
 Dialogue: 0,0:08:06.59,0:08:06.63,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,80.534)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
 Dialogue: 0,0:08:06.63,0:08:06.67,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,77.334)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
 Dialogue: 0,0:08:06.67,0:08:06.71,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,74.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:06.71,0:08:06.75,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,70.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:06.75,0:08:06.79,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,66.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:06.79,0:08:06.84,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,62.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:06.84,0:08:06.88,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,58.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:06.88,0:08:06.92,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,54.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:06.92,0:08:06.96,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,50.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:06.96,0:08:07.00,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,46.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:07.00,0:08:07.04,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,42.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:07.04,0:08:07.09,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,38.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:07.09,0:08:07.13,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,34.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
+Dialogue: 0,0:08:07.13,0:08:07.17,OS - sign 1,,0,0,0,,{\bord0\blur1.3\c&H627188&\p1\fscx\fscy\frz\pos(624.668,30.134)}m 0 0 l 45 0 45 33 0 33{\c&H5C697E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H576174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H59647A&\p1}m 0 0 l 48 0 48 33 0 33{\c&H555F75&\p1}m 0 0 l 48 0 48 33 0 33{\c&H535C70&\p1}m 0 0 l 48 0 48 33 0 33{\c&H556174&\p1}m 0 0 l 48 0 48 33 0 33{\c&H56647E&\p1}m 0 0 l 48 0 48 33 0 33{\c&H55637E&\p1}m 0 0 l 9 0 9 33 0 33
 Dialogue: 0,0:08:18.62,0:08:22.52,Default,,0,0,0,,Alright then, all you have to do to is get me on this mat once and you win.
 Dialogue: 0,0:08:22.79,0:08:23.67,Default,,0,0,0,,What?
 Dialogue: 0,0:08:23.79,0:08:27.19,Default,,0,0,0,,On the contrary if you are unable to continue, I win.
